@@ -1,4 +1,4 @@
 *.ipynb_checkpoints
 figures
 *.pdf
-_MACOSX
+__MACOSX
